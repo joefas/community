@@ -15,8 +15,8 @@ body {
     max-width: 1200px;
     margin: 40px auto;
     padding: 20px;
-    background-color: #fff;
-    border: 1px solid #ddd;
+    background-color: transparent;
+    border: 1px solid transparent;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -55,7 +55,7 @@ body {
 }
 
 .hero {
-    background-color: #f7f7f7;
+    background-color: transparent;
     padding: 20px;
     text-align: center;
 }
@@ -69,7 +69,6 @@ body {
 
 .hero h1 {
     font-size: 36px;
-    font-weight: bold;
     margin-bottom: 10px;
 }
 
@@ -84,9 +83,9 @@ body {
 }
 
 .product {
-    background-color: #fff;
+    background-color: transparent;
     padding: 20px;
-    border: 1px solid #ddd;
+    border: 1px solid transparent;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
@@ -99,7 +98,6 @@ body {
 
 .product h3 {
     font-size: 18px;
-    font-weight: bold;
     margin-bottom: 10px;
 }
 
